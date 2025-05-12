@@ -1,7 +1,6 @@
 # Sentiment-analysis-
 ```markdown
 title: Sentiment Analysis Space
-emoji: 
 colorFrom: blue
 colorTo: red
 sdk: gradio
