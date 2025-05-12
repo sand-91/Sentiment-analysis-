@@ -15,4 +15,4 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          git push -f https://<supriy1991>:$HF_TOKEN@huggingface.co/spaces/<supriya1991>/<sentimentanalysis2> main
+          git push -f https://<supriya1991>:$HF_TOKEN@huggingface.co/spaces/<supriya1991>/<sentimentanalysis2> main
