@@ -1,8 +1,6 @@
 # Sentiment-analysis-
 ```markdown
 title: Sentiment Analysis Space
-colorFrom: blue
-colorTo: red
 sdk: gradio
 sdk_version: 4.44.0
 app_file: app.py
